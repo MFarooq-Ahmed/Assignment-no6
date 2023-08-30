@@ -9,7 +9,7 @@
 // alert("Hello " + fullName + "!"); // display the greeting message with the full name
 
 
-//          **********        Question no 2
+//          **********        Question no 2  
 
 // var favoritePhone = prompt("What is your favorite mobile phone model?"); // prompt for favorite phone model
 
